@@ -1,0 +1,11 @@
+causal-curve
+ipykernel
+jupyterlab
+matplotlib
+notebook
+numpy
+pandas
+scikit-learn
+scipy
+seaborn
+statsmodels
