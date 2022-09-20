@@ -21,7 +21,7 @@ A introduction to causal inference using common tools from the python data stack
 In your terminal, use `git` to clone the repo to your machine.
 
 ```bash
-git clone git@github.com:ronikobrosly/causal_inference_intro.git
+git clone git@github.com:ronikobrosly/pydata_nyc_2022.git
 ```
 
 If you are less comfortable with `git`, there is an easy alternative: [You can simply download a zip file of it here :)](https://github.com/ronikobrosly/pydata_nyc_2022/archive/refs/heads/main.zip)

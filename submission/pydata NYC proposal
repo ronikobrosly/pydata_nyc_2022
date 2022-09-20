@@ -7,9 +7,9 @@ Introduction to Causal Inference
 
 Causal data analysis is very common in many academic domains and has been surging in popularity in the data industry over the last few years. In this tutorial I'll give attendees a gentle introduction to applying causal thinking and causal inference to data using python. 
 
-Attendees don't need any prior experience with causal inference or causal thinking. To make the most of the hands-on portion of the tutorial, attendees should have moderate experience with the modern python data stack: matplotlib, numpy, pandas, and scikit-learn. You will be able to walk away from this tutorial with a foundational understanding of causal inference and the ability to carry out your own causal analyses. 
+Attendees don't need any prior experience with causal inference or causal thinking. To make the most of the hands-on portion of the tutorial, attendees should have moderate experience with the modern python data stack: numpy, pandas, and scikit-learn. You will be able to walk away from this tutorial with a foundational understanding of causal inference and the ability to carry out your own causal analyses. 
 
-During the tutorial you will be split up into groups to work through two different exercise notebooks. All of the materials for the tutorial can be found here: https://github.com/ronikobrosly/pydata_nyc_2022
+During the tutorial you will be split up into groups to work through exercise notebooks. All of the materials for the tutorial can be found here: https://github.com/ronikobrosly/pydata_nyc_2022
 
 
 ----DESCRIPTION----
@@ -17,9 +17,6 @@ During the tutorial you will be split up into groups to work through two differe
 This tutorial session is intended to give attendees a gentle introduction to applying causal thinking and causal inference to data using python. Causal data analysis is very common in many academic domains (e.g. in social psychology, epidemiology, macroeconomics, public policy research, sociology, and more) as well as in industry (all of the largest Silicon Valley tech companies employ teams of scientists who answer business questions purely with causal inference methods).
 
 The tutorial will involve a combination of a presentation with open Q&A and group exercises contained in Jupyter notebooks. This session will cover the difference between correlation and causation, the pitfalls of conducting an analysis using observational data, how causal inference can help get around these pitfalls, and two examples of common, modern modeling approaches used to conduct causal inference (g-computation and estimating causal curves). After the tutorial, the attendees should have a good foundational understanding of causality and the ability to confidently explore the topic on their own. Causal inference can be a very theory-heavy topic, making it impenetrable to novices. In this tutorial, I'll aim to take a more practical perspective on causal inference, while still occasionally touching on the theory.
-
-Tutorial participants are not expected to be familiar with causal inference before attending. To get the most out of the session, the participants ought to have experience working with the common python data stack: matplotlib, numpy, pandas, and scikit-learn. Attendees should have some experience conducting classic machine learning modeling using the scikit-learn API, although having advanced machine learning expertise is absolutely not a prerequisite. A very basic understanding of statistics would be helpful (e.g. understanding what a mean is, what confidence intervals represent).
-
 
 Tutorial Outline:
 
@@ -39,7 +36,6 @@ Tutorial Outline:
 	- Tips for troubleshooting your own analyses
 	- Avoid multiple testing!
 	- Be humble. It is likely your research or business idea doesn’t work 🤷🏻
-
 
 
 
