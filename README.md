@@ -10,6 +10,7 @@ A introduction to causal inference using common tools from the python data stack
   - [Preparing python](#preparing-python)
   - [Install a new IPython kernelspec](#install-a-new-ipython-kernelspec)
   - [Start up jupyter lab and open a notebook](#start-up-jupyter-lab-and-open-a-notebook)
+- [Slides](#slides)
 - [Feedback](#feedback)
 
 
@@ -58,6 +59,11 @@ Once the above is complete, you'll need to run the following commands:
 In the terminal, execute `jupyter lab`.
 
 Navigate to the `notebooks` directory and open your notebook of choice. You will probably be asked which environment you would like to use with the notebook. Select the `Python (causal_modeling)` environment you created in the step above.
+
+
+## Slides
+
+Slides to go along with the tutorial are available as a [Google Doc Presentation](https://docs.google.com/presentation/d/1Gijn05cPROfifXk2LLsjOYZEg5OIXg98nttRMjh-Vb8/edit?usp=sharing).
 
 
 ## Feedback
