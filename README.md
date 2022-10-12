@@ -6,6 +6,7 @@ A introduction to causal inference using common tools from the python data stack
 # Table of Contents
 
 - [Getting Started](#getting-started)
+  - [Install graphviz](#install-graphviz)
   - [Clone the repository](#clone-the-repository)
   - [Preparing python](#preparing-python)
   - [Install a new IPython kernelspec](#install-a-new-ipython-kernelspec)
@@ -15,6 +16,18 @@ A introduction to causal inference using common tools from the python data stack
 
 
 ## Getting Started
+
+
+### Install graphviz
+
+You'll need `graphviz` for our first exercise notebook, to visualize causal graphs.
+
+- Linux:
+  - Depending on your distro, [here are the possible commands](https://graphviz.org/download/#linux)
+- MacOS:
+  - You can easily install it via [homebrew](https://docs.brew.sh/Installation): `brew install graphviz`
+- Windows:
+  - The graphviz.org website [has convenient installers for you](https://graphviz.org/download/#windows)
 
 
 ### Clone the repository
