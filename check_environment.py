@@ -2,7 +2,11 @@ import importlib
 
 packages = [
     "causal_curve",
+    "causalgraphicalmodels",
+    "ipykernel",
+    "jupyterlab",
     "matplotlib",
+    "notebook",
     "numpy",
     "pandas",
     "sklearn",
@@ -10,7 +14,6 @@ packages = [
     "seaborn",
     "statsmodels"
 ]
-
 
 bad = []
 for package in packages:
